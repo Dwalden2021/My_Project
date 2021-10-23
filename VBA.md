@@ -11,7 +11,7 @@ Sub hello()
 End Sub
 ```
 
-I like to use VBA for the following applications:
+**I like to use VBA for the following applications:**
 * Excel
 * Word
 * Outlook
