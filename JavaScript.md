@@ -9,7 +9,7 @@ Javascript has been very fun to learn and I have come to realize how often it is
 document.write('Hello, world!');
 ```
 
-What I like about Javascript:
+**What I like about Javascript:**
 * The use and integration to websites
 * I use it at work for changing the titles of all my tabs
 * Web Scraping to clipboard is very useful and easy
