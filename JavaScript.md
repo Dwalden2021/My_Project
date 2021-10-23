@@ -1,6 +1,6 @@
 # Javascript
 
-VBA is something that I started using in Excel. 
+Java Script has been very fun to learn and I have come to realize how often it is used.  I has been a great puzzle piece to fit into what I already know.
 
 ![Javascript](https://dvg5hr78c8hf1.cloudfront.net/2016/06/17/13/45/01/cc2fac88-2f81-4cc5-9ec9-334042781fd0/1*OsjnQFK1i6CkjXQmTErAtw.jpeg)
 
