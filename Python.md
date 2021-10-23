@@ -15,7 +15,7 @@ What I like about Python:
 * Feels more command line related 
 
 
-For more information, here is the  [Python Wikipedia](https://en.wikipedia.org/wiki/HTML) site
+For more information, here is the  [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) site
 
 ### Links
 [Link to Home Page](https://github.com/Dwalden2021/My_Project/blob/main/README.md) | 
