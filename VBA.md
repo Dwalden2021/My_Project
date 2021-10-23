@@ -1,4 +1,4 @@
-#VBA
+# VBA
 
 VBA is something that I started using in Excel. I used it converted txt into the format that I needed, then I exported it to a .TXT file. It was my first step through the door.  I like the easy and quick through together GUI for easy or testing projects.
 
