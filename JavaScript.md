@@ -17,9 +17,9 @@ What I like about Javascript:
 For more information, here is the  [Javascript Wikipedia](https://en.wikipedia.org/wiki/JavaScript) site
 
 ### Links
-[Link to Home Page](https://github.com/Dwalden2021/My_Project/blob/main/README.md)
-[Link to VBA](https://github.com/Dwalden2021/My_Project/blob/main/VBA.md)
-[Link to RPGLE](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md)
-[Link to CLLE](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md)
-[Link to Python](https://github.com/Dwalden2021/My_Project/blob/main/Python.md)
+[Link to Home Page](https://github.com/Dwalden2021/My_Project/blob/main/README.md) | 
+[Link to VBA](https://github.com/Dwalden2021/My_Project/blob/main/VBA.md) | 
+[Link to RPGLE](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md) | 
+[Link to CLLE](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md) | 
+[Link to Python](https://github.com/Dwalden2021/My_Project/blob/main/Python.md) | 
 
