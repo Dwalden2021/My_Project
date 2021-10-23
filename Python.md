@@ -10,14 +10,14 @@ Python is one of my most recent languages to learn.  It is quickly becoming my *
 print("Hello, world!")
 ```
 
-What I like about Python:
+**What I like about Python:**
 * so far it is my favorite language
 * I like the flow and ease in creation and use of functions
 * Not being required to assign types to variables 
 * Feels more command line related 
 
 
-For more information, here is the  [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) site
+For more information, here is the [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) site
 
 ### Links
 [Link to Home Page](https://github.com/Dwalden2021/My_Project/blob/main/README.md) | 
