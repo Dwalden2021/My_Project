@@ -11,11 +11,11 @@ dsply 'Hello World';
 return;
 ```
 
-Things that I like about RPG: 
+**Things that I like about RPG:**
 * I like RPGLE free vs structured
 * RPG is a very powerful
 
-Things I do not enjoy about RPG:
+**Things I do not enjoy about RPG:**
 * LEGACY CODE!! It is simply the worst to work in or upgrade
 
 For more information, here is the  [RPGLE Wikipedia](https://en.wikipedia.org/wiki/IBM_RPG) site
