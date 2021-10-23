@@ -6,7 +6,7 @@ Hello world would not be coded in CL, it would be coded into a RPGLE program or 
 CLLE is also displayed in _green screen_:   
 ![CLLE](https://i.stack.imgur.com/PyQsz.png)
 
-What I like about CL: 
+**What I like about CL: **
 * I like the structure it offers to RPGLE
 * All the heavy lifting is still done by the RPG programs, but the structure and order is maintained by the CL PGM
 * Running simple command line commands is simple and easy in a CL PGM
