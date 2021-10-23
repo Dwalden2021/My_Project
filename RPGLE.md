@@ -1,6 +1,6 @@
 # RPGLE
 
-RPG is a bit different to work, it is in what I is refered to as green screen. Also when not in free format, part of the syntax is based in the columns the characters and tags are in.
+RPG is a bit different to work, it is in what is referred to as green screen. Also when not in free format, part of the syntax is based in the columns the characters and tags are in.
 
 ![RPGLE](https://i.ytimg.com/vi/6-eOEiW2mrQ/hqdefault.jpg)
 
