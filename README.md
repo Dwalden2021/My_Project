@@ -13,12 +13,8 @@ I have not been a Programmer for most of my carrer.  I spent most of my time wor
 * HTML
 
 ### Links
-[Link to VBA](https://github.com/Dwalden2021/My_Project/blob/main/VBA.md)
-
-[Link to RPGLE](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md)
-
-[Link to CLLE](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md)
-
-[Link to Javascript](https://github.com/Dwalden2021/My_Project/blob/main/JavaScript.md)
-
-[Link to Python](https://github.com/Dwalden2021/My_Project/blob/main/Python.md)
+[Link to VBA](https://github.com/Dwalden2021/My_Project/blob/main/VBA.md) | 
+[Link to RPGLE](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md) | 
+[Link to CLLE](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md) | 
+[Link to Javascript](https://github.com/Dwalden2021/My_Project/blob/main/JavaScript.md) | 
+[Link to Python](https://github.com/Dwalden2021/My_Project/blob/main/Python.md) | 
