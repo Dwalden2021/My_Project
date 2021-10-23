@@ -1,7 +1,7 @@
 # CLLE
 
 
-Hello world would not be coded in CL, it would be coded into a RPGLE program or a display file.  Then the RPGLE or Dispaly file would be would be called by the CL PGM, executed, and then control returned to the CL. 
+Hello world would not be coded in CL, it would be coded into a RPGLE program or a display file.  Then the RPGLE or Display file would be called by the CL PGM, executed, and then control returned to the CL. 
 
 CLLE is also displayed in _green screen_:   
 ![CLLE](https://i.stack.imgur.com/PyQsz.png)
