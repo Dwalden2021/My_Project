@@ -18,10 +18,10 @@ What I like about Python:
 For more information, here is the  [Python Wikipedia](https://en.wikipedia.org/wiki/HTML) site
 
 ### Links
-[Link to Home Page](https://github.com/Dwalden2021/My_Project/blob/main/README.md)
-[Link to VBA](https://github.com/Dwalden2021/My_Project/blob/main/VBA.md)
-[Link to RPGLE](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md)
-[Link to CLLE](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md)
-[Link to Javascript](https://github.com/Dwalden2021/My_Project/blob/main/JavaScript.md)
+[Link to Home Page](https://github.com/Dwalden2021/My_Project/blob/main/README.md) | 
+[Link to VBA](https://github.com/Dwalden2021/My_Project/blob/main/VBA.md) | 
+[Link to RPGLE](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md) | 
+[Link to CLLE](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md) | 
+[Link to Javascript](https://github.com/Dwalden2021/My_Project/blob/main/JavaScript.md) | 
 
 
