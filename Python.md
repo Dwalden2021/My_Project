@@ -1,6 +1,8 @@
 # Python
 
 
+Python is one of my most recent languages to learn.  It is quickly becoming my *favorite*!  
+
 ![Python](https://miro.medium.com/max/1276/1*Wa4aTPXFq5Zv5bAKRVt3AA.png)
 
 ### Here is and example of _Hello World_ in Python
